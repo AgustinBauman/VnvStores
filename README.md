@@ -33,5 +33,8 @@ Ejemplos de Referencia de E-Commerce:
 -https://www.compumundo.com.ar/
 -https://compragamer.com/
 
+Herramienta de Trabajo:
+-https://trello.com/b/BhyqsnPl/vnv-store
+
 
 
