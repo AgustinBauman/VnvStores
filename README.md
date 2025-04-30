@@ -27,3 +27,11 @@ Queremos convertirnos en tu primera opción cuando pensás en tecnología para e
 
 ¡Bienvenido a VNV Store, donde la tecnología se adapta a vos! 🙌
 
+
+Ejemplos de Referencia de E-Commerce:
+-https://www.mercadolibre.com.ar/
+-https://www.compumundo.com.ar/
+-https://compragamer.com/
+
+
+
